@@ -1,5 +1,3 @@
-# ipa_build
-
 # 使用教程
 
 1. 将ipa_build这个文件夹移到和.xcodeproj或.xcworkspace同一级目录
