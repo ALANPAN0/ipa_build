@@ -9,4 +9,4 @@
 4. 查看你的桌面即可以查看导出的IPA包
 
 <p>
-**➡️➡️➡️详情点击进入[blog](http://iipanda.com/2016/02/13/%E5%88%A9%E7%94%A8XCTool%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%8C%96%E6%89%93%E5%8C%85/)**
+**➡️➡️➡️详情点击进入[blog](http://iipanda.com/2016/02/13/xctool-package/)**
